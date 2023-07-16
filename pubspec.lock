@@ -70,6 +70,14 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  flutter_geocoder:
+    dependency: "direct main"
+    description:
+      name: flutter_geocoder
+      sha256: adeef7d9fd21ecb8b82aaa02dfe1fd461b524a1236fb98e494aaf081a5f9f56d
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.2.2-nullsafety"
   flutter_lints:
     dependency: "direct dev"
     description:
