@@ -74,6 +74,9 @@ flutter:
     - assets/fuel-pump.png
     - assets/house.png
     - assets/mall.png
+    - asset/maptheme/silver_theme.json
+    - asset/maptheme/retro_theme.json
+    - asset/maptheme/night_theme.json
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
